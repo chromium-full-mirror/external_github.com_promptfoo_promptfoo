@@ -6,12 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.126.1](https://github.com/promptfoo/promptfoo/compare/0.126.0...0.126.1) (2026-11-20)
 
-
 ### Bug Fixes
 
-* **deps:** require patched parse5 ([#12473](https://github.com/promptfoo/promptfoo/issues/12473)) ([ee3713d](https://github.com/promptfoo/promptfoo/commit/ee3713d7efdbb44f95d30db84cb8fdee538f8c00))
-* **deps:** update anthropic packages ([#12498](https://github.com/promptfoo/promptfoo/issues/12498)) ([eb0f11f](https://github.com/promptfoo/promptfoo/commit/eb0f11f41fbe906a8f939179c0ccd7566769e56d))
-* **deps:** update opentelemetry ([#12499](https://github.com/promptfoo/promptfoo/issues/12499)) ([60424a1](https://github.com/promptfoo/promptfoo/commit/60424a1e7532d24eafc9b0fb0d103d43a841501f))
+- **deps:** require patched parse5 ([#12473](https://github.com/promptfoo/promptfoo/issues/12473)) ([ee3713d](https://github.com/promptfoo/promptfoo/commit/ee3713d7efdbb44f95d30db84cb8fdee538f8c00))
+- **deps:** update anthropic packages ([#12498](https://github.com/promptfoo/promptfoo/issues/12498)) ([eb0f11f](https://github.com/promptfoo/promptfoo/commit/eb0f11f41fbe906a8f939179c0ccd7566769e56d))
+- **deps:** update opentelemetry ([#12499](https://github.com/promptfoo/promptfoo/issues/12499)) ([60424a1](https://github.com/promptfoo/promptfoo/commit/60424a1e7532d24eafc9b0fb0d103d43a841501f))
 
 ## [0.126.0](https://github.com/promptfoo/promptfoo/compare/0.125.1...0.126.0) (2026-11-18)
 
